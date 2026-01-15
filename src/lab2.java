@@ -2,7 +2,7 @@ import java.util.LinkedHashSet;
 import java.util.Locale;
 import java.util.Set;
 
-public class lab2 {
+public class Lab2 {
 
     static void main() {
         try {
